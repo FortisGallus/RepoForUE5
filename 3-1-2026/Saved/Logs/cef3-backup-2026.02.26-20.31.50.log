@@ -1,0 +1,21 @@
+[20248:27460:0226/121454.502:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[20248:27460:0226/121454.600:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1600:8456:0226/121459.085:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-103E6C8A0FEE860227CCFCE0950A8B09 will be ignored
+[20248:27460:0226/121504.426:ERROR:device_event_log_impl.cc(196)] [12:15:04.391] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[5812:17224:0226/121504.436:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121504.489:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121504.601:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5812:17224:0226/121504.678:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121504.686:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121504.732:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121514.574:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121514.705:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121519.191:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[5812:17224:0226/121522.289:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121526.816:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[5812:17224:0226/121532.717:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[20248:23260:0226/122016.043:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[5812:17224:0226/141830.627:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[5812:17224:0226/141830.627:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[5812:17224:0226/141830.627:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 5
+[20248:27460:0226/153150.936:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
